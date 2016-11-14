@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/composant/Attachement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/composant/Composant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/composant/InterfaceCpt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/composant/PortCpt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/composant/PortCptFourni.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/composant/PortCptRequis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/configuration/ComposantCfg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/configuration/Configuration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/configuration/ConnecteurCfg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/configuration/PortCfg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/configuration/PortCfgFourni.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/configuration/PortCfgRequis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/lien/BindingFourni.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/M2/lien/BindingRequis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/dfj.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/edu/univnantes/projet/hadl/edu/univnantes/projet/hadl/M0/edu/univnantes/projet/hadl/M2/dfj.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
